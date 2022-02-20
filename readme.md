@@ -34,4 +34,4 @@ Epoch 10/10
 
 ## How to run
 pip3 install -r requirements.txt <br>
-python questions.py corpus
+python traffic.py gtsrb
